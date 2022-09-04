@@ -1,0 +1,17 @@
+C:\Users\Ruslan-PC\source\repos\PashaInsurance\PI.DataAccess\obj\Debug\net6.0\PL.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Ruslan-PC\source\repos\PashaInsurance\PI.DataAccess\obj\Debug\net6.0\PL.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ruslan-PC\source\repos\PashaInsurance\PI.DataAccess\obj\Debug\net6.0\PL.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Ruslan-PC\source\repos\PashaInsurance\PI.DataAccess\obj\Debug\net6.0\PL.DataAccess.AssemblyInfo.cs
+C:\Users\Ruslan-PC\source\repos\PashaInsurance\PI.DataAccess\obj\Debug\net6.0\PL.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Ruslan-PC\source\repos\PashaInsurance\PI.DataAccess\bin\Debug\net6.0\PL.DataAccess.deps.json
+C:\Users\Ruslan-PC\source\repos\PashaInsurance\PI.DataAccess\bin\Debug\net6.0\PL.DataAccess.runtimeconfig.json
+C:\Users\Ruslan-PC\source\repos\PashaInsurance\PI.DataAccess\bin\Debug\net6.0\PL.DataAccess.dll
+C:\Users\Ruslan-PC\source\repos\PashaInsurance\PI.DataAccess\bin\Debug\net6.0\PL.DataAccess.pdb
+C:\Users\Ruslan-PC\source\repos\PashaInsurance\PI.DataAccess\bin\Debug\net6.0\PL.Entity.dll
+C:\Users\Ruslan-PC\source\repos\PashaInsurance\PI.DataAccess\bin\Debug\net6.0\PL.Entity.pdb
+C:\Users\Ruslan-PC\source\repos\PashaInsurance\PI.DataAccess\obj\Debug\net6.0\PL.DataAccess.csproj.CopyComplete
+C:\Users\Ruslan-PC\source\repos\PashaInsurance\PI.DataAccess\obj\Debug\net6.0\PL.DataAccess.dll
+C:\Users\Ruslan-PC\source\repos\PashaInsurance\PI.DataAccess\obj\Debug\net6.0\refint\PL.DataAccess.dll
+C:\Users\Ruslan-PC\source\repos\PashaInsurance\PI.DataAccess\obj\Debug\net6.0\PL.DataAccess.pdb
+C:\Users\Ruslan-PC\source\repos\PashaInsurance\PI.DataAccess\obj\Debug\net6.0\PL.DataAccess.genruntimeconfig.cache
+C:\Users\Ruslan-PC\source\repos\PashaInsurance\PI.DataAccess\obj\Debug\net6.0\ref\PL.DataAccess.dll

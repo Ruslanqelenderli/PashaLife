@@ -1,0 +1,12 @@
+C:\Users\Ruslan-PC\source\repos\PashaInsurance\PI.Entity\bin\Debug\net6.0\PI.Entity.deps.json
+C:\Users\Ruslan-PC\source\repos\PashaInsurance\PI.Entity\bin\Debug\net6.0\PI.Entity.dll
+C:\Users\Ruslan-PC\source\repos\PashaInsurance\PI.Entity\bin\Debug\net6.0\PI.Entity.pdb
+C:\Users\Ruslan-PC\source\repos\PashaInsurance\PI.Entity\obj\Debug\net6.0\PI.Entity.csproj.AssemblyReference.cache
+C:\Users\Ruslan-PC\source\repos\PashaInsurance\PI.Entity\obj\Debug\net6.0\PI.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ruslan-PC\source\repos\PashaInsurance\PI.Entity\obj\Debug\net6.0\PI.Entity.AssemblyInfoInputs.cache
+C:\Users\Ruslan-PC\source\repos\PashaInsurance\PI.Entity\obj\Debug\net6.0\PI.Entity.AssemblyInfo.cs
+C:\Users\Ruslan-PC\source\repos\PashaInsurance\PI.Entity\obj\Debug\net6.0\PI.Entity.csproj.CoreCompileInputs.cache
+C:\Users\Ruslan-PC\source\repos\PashaInsurance\PI.Entity\obj\Debug\net6.0\PI.Entity.dll
+C:\Users\Ruslan-PC\source\repos\PashaInsurance\PI.Entity\obj\Debug\net6.0\refint\PI.Entity.dll
+C:\Users\Ruslan-PC\source\repos\PashaInsurance\PI.Entity\obj\Debug\net6.0\PI.Entity.pdb
+C:\Users\Ruslan-PC\source\repos\PashaInsurance\PI.Entity\obj\Debug\net6.0\ref\PI.Entity.dll

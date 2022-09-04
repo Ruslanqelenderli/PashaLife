@@ -1,0 +1,17 @@
+C:\Users\Ruslan-PC\source\repos\PashaInsurance\PL.Business\bin\Debug\net6.0\PL.Business.deps.json
+C:\Users\Ruslan-PC\source\repos\PashaInsurance\PL.Business\bin\Debug\net6.0\PL.Business.dll
+C:\Users\Ruslan-PC\source\repos\PashaInsurance\PL.Business\bin\Debug\net6.0\PL.Business.pdb
+C:\Users\Ruslan-PC\source\repos\PashaInsurance\PL.Business\obj\Debug\net6.0\PL.Business.csproj.AssemblyReference.cache
+C:\Users\Ruslan-PC\source\repos\PashaInsurance\PL.Business\obj\Debug\net6.0\PL.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ruslan-PC\source\repos\PashaInsurance\PL.Business\obj\Debug\net6.0\PL.Business.AssemblyInfoInputs.cache
+C:\Users\Ruslan-PC\source\repos\PashaInsurance\PL.Business\obj\Debug\net6.0\PL.Business.AssemblyInfo.cs
+C:\Users\Ruslan-PC\source\repos\PashaInsurance\PL.Business\obj\Debug\net6.0\PL.Business.csproj.CoreCompileInputs.cache
+C:\Users\Ruslan-PC\source\repos\PashaInsurance\PL.Business\obj\Debug\net6.0\PL.Business.dll
+C:\Users\Ruslan-PC\source\repos\PashaInsurance\PL.Business\obj\Debug\net6.0\refint\PL.Business.dll
+C:\Users\Ruslan-PC\source\repos\PashaInsurance\PL.Business\obj\Debug\net6.0\PL.Business.pdb
+C:\Users\Ruslan-PC\source\repos\PashaInsurance\PL.Business\obj\Debug\net6.0\ref\PL.Business.dll
+C:\Users\Ruslan-PC\source\repos\PashaInsurance\PL.Business\bin\Debug\net6.0\PL.DataAccess.dll
+C:\Users\Ruslan-PC\source\repos\PashaInsurance\PL.Business\bin\Debug\net6.0\PL.Entity.dll
+C:\Users\Ruslan-PC\source\repos\PashaInsurance\PL.Business\bin\Debug\net6.0\PL.DataAccess.pdb
+C:\Users\Ruslan-PC\source\repos\PashaInsurance\PL.Business\bin\Debug\net6.0\PL.Entity.pdb
+C:\Users\Ruslan-PC\source\repos\PashaInsurance\PL.Business\obj\Debug\net6.0\PL.Business.csproj.CopyComplete
