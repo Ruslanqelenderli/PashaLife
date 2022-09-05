@@ -26,7 +26,7 @@ namespace PLStoc.Api.Controllers
         {
             logger.LogInformation("Start AddStock method in ProductStockController.");
             if (dto.ProductId == 0 || dto == null) return BadRequest("İnvalidProductId");
-            var url = "http://localhost:5265/GetById/"+dto.ProductId;
+            var url = "http://localhost:5265/product/"+dto.ProductId;
             var result = await Api<ProductGetDto>.GetAsync(url);
             var product=result.FirstOrDefault();
             if (product != null)
@@ -68,7 +68,7 @@ namespace PLStoc.Api.Controllers
         {
             logger.LogInformation("Start RemoveStock method in ProductStockController.");
             if (dto.ProductId == 0 || dto == null) return BadRequest("İnvalidProductId");
-            var url = "http://localhost:5265/GetById/" + dto.ProductId;
+            var url = "http://localhost:5265/product/" + dto.ProductId;
             var result = await Api<ProductGetDto>.GetAsync(url);
             var product = result.FirstOrDefault();
             if (product != null)
@@ -126,7 +126,7 @@ namespace PLStoc.Api.Controllers
         {
             logger.LogInformation("Start Get method in ProductStockController.");
             if (productId == 0 ) return BadRequest("İnvalidProductId");
-            var url = "http://localhost:5265/GetById/" + productId;
+            var url = "http://localhost:5265/product/" + productId;
             var result = await Api<ProductGetDto>.GetAsync(url);
             var product = result.FirstOrDefault();
             if (product != null)

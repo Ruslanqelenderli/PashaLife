@@ -37,7 +37,7 @@ namespace PI.Api.Controllers
             }
         }
 
-        [HttpPost("/product")]
+        [HttpPost("/product/add")]
         public async Task<IActionResult> Add(ProductAddDto dto)
         {
             if (!ModelState.IsValid)
@@ -58,7 +58,7 @@ namespace PI.Api.Controllers
             }
         }
 
-        [HttpPut("/product")]
+        [HttpPut("/product/update")]
         public async Task<IActionResult> Update(ProductUpdateDto dto)
         {
             if (!ModelState.IsValid)
@@ -79,7 +79,7 @@ namespace PI.Api.Controllers
             }
         }
 
-        [HttpDelete("/product/{id:int}")]
+        [HttpDelete("/product/delete/{id:int}")]
         public async Task<IActionResult> Delete(int id)
         {
             logger.LogInformation("Start Delete method in ProductController.");
@@ -96,7 +96,7 @@ namespace PI.Api.Controllers
             }
         }
 
-        [HttpGet("/GetById/{id:int}")]
+        [HttpGet("/product/{id:int}")]
         public async Task<IActionResult> GetById(int id)
         {
             logger.LogInformation("Start GetById method in ProductController.");

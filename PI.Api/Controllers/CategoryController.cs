@@ -35,7 +35,7 @@ namespace PI.Api.Controllers
                 return NotFound(result.Message);
             }
         }
-        [HttpPost("/category")]
+        [HttpPost("/category/add")]
         public async Task<IActionResult> Add(CategoryAddDto dto)
         {
             if (!ModelState.IsValid)
@@ -55,7 +55,7 @@ namespace PI.Api.Controllers
                 return NotFound(result.Message);
             }
         }
-        [HttpPut("/category")]
+        [HttpPut("/category/update")]
         public async Task<IActionResult> Update(CategoryUpdateDto dto)
         {
             if (!ModelState.IsValid)
@@ -76,7 +76,7 @@ namespace PI.Api.Controllers
             }
         }
 
-        [HttpDelete("/category/{id:int}")]
+        [HttpDelete("/category/delete/{id:int}")]
         public async Task<IActionResult> Delete(int id)
         {
             logger.LogInformation("Start Delete method in CategoryController.");
